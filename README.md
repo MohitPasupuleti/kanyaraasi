@@ -15,8 +15,8 @@
 
 ## Team
 - Team Name: Kanyarashi
-- Members: Mohit Pasupuleti, Radhesh Kudamala, Vamshri Hari
-- Repo forked from: `odsc2015/agentic-hackathon-template` (rename matches team name—update if needed)
+- Members: Mohit Pasupuleti, Radhesh Kudamala, Vamshri Hari, Taruni Reddy
+- Repo forked from: `odsc2015/agentic-hackathon-template`
 
 ## Tech Stack
 - Backend: Python 3.11, FastAPI, Google Gemini API
