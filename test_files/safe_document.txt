@@ -1,0 +1,19 @@
+How to Optimize SQL Queries
+
+This document contains general information about SQL query optimization techniques.
+
+Best Practices:
+1. Use indexes on frequently queried columns
+2. Avoid SELECT * and specify only needed columns
+3. Use JOIN instead of subqueries when possible
+4. Consider query caching for repeated queries
+5. Analyze query execution plans
+
+Example Query:
+SELECT user_id, username, created_at
+FROM users
+WHERE status = 'active'
+ORDER BY created_at DESC
+LIMIT 100;
+
+This is clean content with no sensitive information.

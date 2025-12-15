@@ -1,0 +1,31 @@
+Meeting Notes - Q4 Project Review
+
+Date: December 12, 2025
+Attendees: Project Team
+
+Action Items:
+1. John Smith (john.smith@example.com) will review the database schema
+2. Sarah Johnson (sarah.j@company.com) will update documentation
+3. Contact Mike at 555-123-4567 for infrastructure questions
+4. Email Jane at jane.doe@testcompany.org about deployment schedule
+
+Follow-up:
+- Schedule next meeting for January 15, 2026
+- Send summary to team-leads@company.com
+- Update project board with new tasks
+
+Customer Feedback:
+- Customer reported issue via support@example.com
+- Billing inquiry from 1-800-555-0199
+- Follow up with customer at customer@business.net
+
+Notes:
+This document contains contact information and email addresses for testing purposes.
+All information is fake and for testing only.
+
+Phone contacts:
+- Support: (555) 987-6543
+- Sales: 555.456.7890
+- HR: 555-111-2222
+
+[FAKE PII DATA - FOR TESTING ONLY]
